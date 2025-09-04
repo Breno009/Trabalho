@@ -226,15 +226,8 @@ ul {
     width: 50px;
 }
 
-
 h5 {
     padding: 20px;
-}
-
-main h1,
-p,
-li {
-    margin-bottom: 15px;
 }
 
 main h1 {
@@ -243,4 +236,5 @@ main h1 {
 
 .BrawlI {
     float: right;
+    margin-bottom: 5px;
 }
