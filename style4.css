@@ -156,3 +156,14 @@ dt {
 .quizz {
     float: right;
 }
+
+.iframe {
+    font-family: "Asimovian", sans-serif;
+}
+
+.iframe img {
+    margin-bottom: 8px;
+    margin-top: 5px;
+    width: 600px;
+    height: 300px;
+}
